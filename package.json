@@ -1,0 +1,12 @@
+{
+  "name": "surge-zeit-netlify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  },
+  "scripts": {
+    "surge": "surge --domain https://surge.port4.io"
+  }
+}
